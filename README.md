@@ -4,7 +4,9 @@ Unlike diskcord, _WebbedCord will only really be targetting Blackberry OS device
 As a result, please do not create issues unless the problem affects such devices.
 
 ## Instances
-There is currently only one instance: https://kooper.online/misc/diskcord
+There are currently two instances:
+- https://commandcontrolq.github.io/webbedcord (hosted straight from GitHub, more bleeding-edge)
+- https://kooper.online/misc/diskcord (updated not as often but should be "stable")
 
 ## Information
 - As of writing, it is not possible to log in using an email and password, likely due to a change in Discord's API. This is a known issue.
