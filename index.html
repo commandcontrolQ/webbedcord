@@ -11,10 +11,15 @@
     <div class="container">
         <h2>Disk Cord</h2>
 
+        <h4 class="warning">
+            Email login is currently broken, this is a known issue. <br>
+            Please use token login instead for now, sorry :(
+        </h4>
+
         <div id="normalLogin">
             <p class="info"></p>
-            <input type="email" id="emailInput" placeholder="ey b0ss, mail plz">
-            <input type="password" id="passwordInput" placeholder="ey b0ss, password plz">
+            <input type="email" id="emailInput" placeholder="Email">
+            <input type="password" id="passwordInput" placeholder="Password">
             <button onclick="loginWithCredentials()">Login</button>
             <button onclick="switchToTokenLogin()">Login with Token Instead</button>
         </div>
